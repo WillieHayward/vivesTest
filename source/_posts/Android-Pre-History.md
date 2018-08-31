@@ -14,13 +14,13 @@ In the first part of our Android History series, functioning back on the earlies
 
 <!-- more -->
 
-#The mobile world, circa 2006
+# The mobile world, circa 2006
 
 Inside the world of technology in general, and mobile technology in particular, the mid-2000s now seems like ancient history.
 
 The rumoured iPhone was actively refused by Apple. Netbooks were the hot new category of ultra-portable computing device. Typically the tablets through the day looked like your clunky work laptop with the keyboard sliced off. There was no Twitter. YouTube was a scrappy startup. Windows Landscape was a thing.
 
-The particular smartphones of the time were, by modern specifications, slow, clunky and unattractive — a landscape completely outclassed by Symbian, Windows Cell phone and BlackBerry where efficiency was king. Though the idea of a telephone being more than only a phone was steadily attaining traction, the concept of a mainstream smartphone remained something of an Zusammenstellung Einander Widersprechender Begriffe.
+The particular smartphones of the time were, by modern specifications, slow, clunky and unattractive landscape completely outclassed by Symbian, Windows Cell phone and BlackBerry where efficiency was king. Though the idea of a telephone being more than only a phone was steadily attaining traction, the concept of a mainstream smartphone remained something of an Zusammenstellung Einander Widersprechender Begriffe.
 
 The smartphones of the mid-2000s weren't just basic from a technological standpoint, they were a minefield for developers, and in many markets mired in carrier restrictions much more than we withstand today. User experience and ease of development came second to competing corporate interests contrary to the relatively open associated with PERSONAL COMPUTER and web development.
 

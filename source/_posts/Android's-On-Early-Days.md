@@ -84,9 +84,9 @@ Regardless, early Android still looked and sensed like an OS designed by enginee
 
 For example , check out the 90s-style office phone icon, and shaded, isometric icons used elsewhere. Plus the liberal use of Windows-style bezels provided buttons and interactions a clunky, old-fashioned feel. iOS, by contrast, sported a skeuomorphic look in places (emulating the appearance of the physical controls the touch-only experience replaced), but there seemed to be a more firm hand on the design rudder, with an individual can software that took strong tips from Apple's well-established pc Mac OS.
 
-Once finished, the basic look and feel of Android did not change much right upwards to version second . 2, Froyo.
+Once finished, the basic look and feel of Android did not change much right upwards to version second 0.2, Froyo.
 
-What's also striking is how little the basic look and feel of stock Android changed from the initial 1. zero release up to version 2. 2, Froyo — released more than a year-and-a-half later. Only the later releases of Gingerbread, Honeycomb and eventually Ice Cream Sandwich, and the hiring of former Palm designer Matias Duarte, would gradually bring about a Google with design at its heart.
+What's also striking is how little the basic look and feel of stock Android changed from the initial 1. zero release up to version 2.2, Froyo released more than a year-and-a-half later. Only the later releases of Gingerbread, Honeycomb and eventually Ice Cream Sandwich, and the hiring of former Palm designer Matias Duarte, would gradually bring about a Google with design at its heart.
 
 Nevertheless that's a story another time.
 
@@ -94,9 +94,9 @@ Nevertheless that's a story another time.
 
 Android is well-known as an open-source working system, meaning anyone can download the Android source code and create their own version of the OS. And the Android Available Source Project (AOSP) is how that's done. When Google is done establishing Android internally, it's widely released through AOSP, allowing anyone from big manufacturers to hobbyist developers to tinker with the program code.
 
-However you need some checks and balances to keep up compatibility across devices, and that is where the Android Match ups Program comes in. Inside order to receive documentation and get approval to use Google's suite of mobile services (including the Play Store, Google Play Services and other important stuff), manufacturers' builds of Android must pass match ups tests. This really is Google's way of ensuring that everything with access to their iphone app marketplace is suitable with the software on there.
+However you need some checks and balances to keep up compatibility across devices, and that is where the Android Match ups Program comes in. Inside order to receive documentation and get approval to use Google's suite of mobile services (including the Play Store, Google Play Services and other important stuff), manufacturers' builds of Android must pass match ups tests. This really is Google's way of ensuring that everything with access to their iPhone app marketplace is suitable with the software on there.
 
-AOSP also makes it also possible to use Android without Yahoo stuff — services, programs or compatibility checks — and that's what Amazon does with its line of "Fire" products.
+AOSP also makes it also possible to use Android without Yahoo stuff services, programs or compatibility checks and that's what Amazon does with its line of "Fire" products.
 
 While the core Android OPERATING-SYSTEM is open-source, much of what you might think of as Android is not.
 
@@ -124,7 +124,7 @@ Amazingly, the Amazon MP3 store (included on many Cupcake and Donut phones, such
 
 ... But chances are you wouldn't be happy or productive.
 
-We're not knocking the G1 or older versions of Android here. In their day, these phones running this software were the top of mobile tech. But they have been left right behind, and possess their age — both on the hardware front as well as on the application side.
+We're not knocking the G1 or older versions of Android here. In their day, these phones running this software were the top of mobile tech. But they have been left right behind, and possess their age both on the hardware front as well as on the application side.
 
 Although you could use something such as the G1 running Doughnut as your smartphone, chances are you wouldn't be very happy or successful. Using one for a few days was fun, but what I received from it all was a much better appreciation for the great phones we certainly have today.
 
@@ -142,4 +142,4 @@ Verizon's marketing efforts for the Droid were practically totally focused on ta
 
 Verizon's embrace in the Droid was also the mortal blow to Hands. A founding company inside the smartphone space, Hand had launched their personal modern smartphone 'typically the Palm Pre running webOS' in June of 2009, but the first release was exclusive to Sprint. Verizon had agreed upon an exclusive deal regarding the improved Palm Before Plus, promising a big advertising campaign and sales. Right behind the scenes, Verizon applied Palm as leverage together with Motorola and Verizon, and barely promoted the Before Plus. With warehouses regarding unsold phones, Palm took huge lOSses and offered to HP in Apr 2010. HP webOS section was effectively shut lower the following year beneath the disastrous tenure of HP CEO LEE Apotheker.
 
-Typically the Droid quickly became the most famous Android phone in the US. 'Droid' became associated with 'Android' for several, regardless of being a Verizon-exclusive brand. Even with the consumer-level brand confusion — in order to the benefit of Verizon — the Droid marked a good explOSion in awareness regarding Android.
+Typically the Droid quickly became the most famous Android phone in the US. 'Droid' became associated with 'Android' for several, regardless of being a Verizon-exclusive brand. Even with the consumer-level brand confusion in order to the benefit of Verizon the Droid marked a good explOSion in awareness regarding Android.

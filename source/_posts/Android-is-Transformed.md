@@ -18,13 +18,13 @@ In typically the fourth part of our Android History series, we're going track th
 
 Android 3. 0 proceeded to go by the codename "Honeycomb. " (Or, to numerous Android followers, "the version of which we do not speak. ")
 
-In early-December 2010 Andy Rubin — in many ways thought to be the father of typically the Android we know today — strode onto the "D: Dive Into Mobile" phase in S . Francisco with a little surprise tucked beneath his arm. A tablet from Motorola with a new new version of Android OS on board Android OS Honeycomb.
+In early-December 2010 Andy Rubin in many ways thought to be the father of typically the Android we know today strode onto the "D: Dive Into Mobile" phase in S . Francisco with a little surprise tucked beneath his arm. A tablet from Motorola with a new new version of Android OS on board Android OS Honeycomb.
 
 Android tablets to be able to this point mostly experienced been large displays together with a phone's operating-system hacked onto them. And pOSsibly that will isn't really all of which diverse from what we have got today. But back then it just didn't sense right.
 
 This prototype capsule and the operating system it was to release were meant to change that. A new "holographic" design language (more Knife Runner than Holo, perhaps). New notifications. Things were different. And we swiftly started out to wonder just how well some of this would certainly translate to phones when Honeycomb reached its full release.
 
-And so all of us ended up with the particular Motorola Xoom. We may pOSsibly not have known that at the time, yet its bizarre name has been a harbinger of things to come. The tablet at first shipped with 3G data and not LTE — but Motorola would retrofit tablets if they have been mailed in. Adobe Flash wasn't supported at launch. Nor was your micrOSD cards slot.
+And so all of us ended up with the particular Motorola Xoom. We may pOSsibly not have known that at the time, yet its bizarre name has been a harbinger of things to come. The tablet at first shipped with 3G data and not LTE but Motorola would retrofit tablets if they have been mailed in. Adobe Flash wasn't supported at launch. Nor was your micrOSD cards slot.
 
 But in addition is that we waited and waited for the Honeycomb source code to end up being made open-source, like typically the rest of the Google android releases. That day in no way came. Conventional wisdom shows us that Google identified the trouble both together with the design and the particular functioning of Honeycomb, in addition to that we'd conclusion upward with some serious FrankenPhones should it be launched into the wild. (Likely right now there were licensing issues as well that never really goes away. )
 
@@ -62,7 +62,7 @@ And we continued to wait. Then we waited some more. It was the longest spring ev
 
 The first generation of LTE-capable smartphones were battery hogs.
 
-Yet by the time the Droid Bionic finally made its appearance we'd already learned a harsh truth. The very first generation of LTE-capable smartphones were battery hogs. Killing a phone by lunchtime wasn't out of the question in the slightest. You could almost see the life draining from the handset as it burned through all the bits and bytes. In addition to this was back in the days before battery packs got big. We're talking a mere 1400 mAh battery in the Thunderbolt — less than 50 percent of what you'll find in almost all of today's flagship smartphones, which is without the benefit for the more successful processors and software that we have today.
+Yet by the time the Droid Bionic finally made its appearance we'd already learned a harsh truth. The very first generation of LTE-capable smartphones were battery hogs. Killing a phone by lunchtime wasn't out of the question in the slightest. You could almost see the life draining from the handset as it burned through all the bits and bytes. In addition to this was back in the days before battery packs got big. We're talking a mere 1400 mAh battery in the Thunderbolt less than 50 percent of what you'll find in almost all of today's flagship smartphones, which is without the benefit for the more successful processors and software that we have today.
 
 Phones didn't long lasting back then. But, damn, fast data was fast.
 
@@ -120,7 +120,7 @@ A new "typical" Honeycomb-powered tablet in its raw form, the Transformer, err, 
 
 Much of this was because the computer keyboard dock itself was designed to work specifically with Android. Wireless keyboards have been around forever, and they also worked, but not as well as ASUS's dock with an integrated touchpad and mouse button buttons. With no consumer setup required, things worked well as expected, right out of the box. And they proved helpful well. The Transformer's -NVIDIA Tegra 2 processor managed most anything thrown at it, and the large battery combined with the additional battery in the keyboard dock itself kept you at it all day.
 
-May Android be a practical laptop operating system?
+## May Android be a practical laptop operating system?
 
 A bigger question, and one which still remains is whether delete word Android is usable as a laptop operating system. ASUS did a fine job integrating their hardware but you still found programs that required things like a swipe or a longpress, and a number of just didn't work with the Transformers touchpad. We all still see those issues today, especially with Google android TV. Often times, compatibility doesn't really mean compatible.
 
@@ -128,13 +128,13 @@ Overall, the good outweighed the bad and ASUS (as well as others) continuing to 
 
 Just remember, ASUS did it first, and it did a pretty good job with it.
 
-The Amazing World of StereOScopic THREE DIMENSIONAL Smartphones!
+# The Amazing World of StereOScopic THREE DIMENSIONAL Smartphones!
 
 As TV producers started to push glasses-free 3D sets in a large way, it was only a matter of time before smartphone manufacturers hopped on the bandwagon. And as mid-2011 rolled around we saw the very first (and very last) trend of stereOScopic Android mobile phones and tablets.
 
 LG introduced the very first 3D Android phone, the Optimus 3D, that spring. Utilizing a similar strategy to glasses-free 3D TVs, you'd probably have to hold the device a specific distance from your eyes to see the effect (and lOSe half the display image resolution in the process. ) Much like other convenient 3 DIMENSIONAL devices like the Nintendo 3DS, eye strain would become an issue with extended use, and image quality was worse than rival 2D-only panels.
 
-Afterwards in 2011, HTC launched the EVO 3D — the successor to the highly popular EVO 4-G on Sprint in the U. S., before giving it a minimal European release. The ET? boasted a slightly higher resolution and improved battery pack life compared to LG's effort, with the relax of the experience reflecting the otherwise solid THE ALL NEW HTC Sensation.
+Afterwards in 2011, HTC launched the EVO 3D the successor to the highly popular EVO 4-G on Sprint in the U. S., before giving it a minimal European release. The ET? boasted a slightly higher resolution and improved battery pack life compared to LG's effort, with the relax of the experience reflecting the otherwise solid THE ALL NEW HTC Sensation.
 
 LG's VP of smartphone product planning, Doctor. Ramchan Woo, affirms the push towards 3D devices didn't come from any single source, but somewhat a coming together of technologies.
 
@@ -197,7 +197,7 @@ But just like the previous a couple of Nexus phones, this has been a collaborati
 
 The Galaxy Nexus launch did not go smoothly on either aspect from the Atlantic.
 
-The retail launch of the previous Samsung Nexus phone had been also beset by issues. The UK and Europe got it first, but supplies were short, in addition to retailers like the (now defunct) Phones4u gouged launch-day customers using a £100 value hike for your first twenty-four hours of availability.
+The retail launch of the previous Samsung Nexus phone had been also beset by issues. The UK and Europe got it first, but supplies were short, in addition to retailers like the (now defunct) Phones4u gouged launch-day customers using a 100 value hike for your first twenty-four hours of availability.
 
 Above in the United Declares, things got even messier. Verizon Wireless would exclusively carry a 4G LTE-enabled Galaxy Nexus for the particular first few months of its availability, and the battle of competing corporate pursuits finally scuppered the GNex's probability of gaining a footing inside the U. S. Despite the fact that Google had successfully negotiated the Nexus's place about Verizon a package which also led to typically the country's biggest operator passing up the Galaxy S2 there was chaffing involving the two.
 

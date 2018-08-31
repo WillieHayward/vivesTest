@@ -16,7 +16,7 @@ Inside the next part of our Android History series, we'll look back on the begin
 
 # Nexus Landing: The Google Phone Store
 
-Christmas came a tad early for those inside Google in Dec 2009 — and it also quickly became an open key that, yes, Google was working on a cell phone. And, yes, Googlers were walking around with them. So we got a few weeks of leaks and unofficial walkthroughs before the HTC-manufactured Nexus One was unveiled on Jan. 5, 2010.
+Christmas came a tad early for those inside Google in Dec 2009 and it also quickly became an open key that, yes, Google was working on a cell phone. And, yes, Googlers were walking around with them. So we got a few weeks of leaks and unofficial walkthroughs before the HTC-manufactured Nexus One was unveiled on Jan. 5, 2010.
 
 The telephone itself was damned close to futuristic for the time, especially considering it emerged simply a month or so after the block (but super popular) Motorola Droid on Verizon. This truly was your first sexy smart phone running Android. Basic specs included a 3. 7-inch AMOLED display (at 800x480 resolution), a 1GHz Snapdragon 8250 processor, 512 megabytes of on-board storage and micrOSD card support. It experienced a 1400 mAh electric battery and a 5-megapixel camera. (Hey, it was the year 2010. )
 
@@ -30,7 +30,7 @@ What's more was that Google was looking to revolutionize just how we purchased p
 
 Well, sort of. This is in the early on days of proper 3G data, and the very first model of Nexus One to be released was only friendly to T-Mobile's 3G frequencies. The phone would work on other companies, sure, just not with 3G data. An AT&T-friendly model was released later, and the promised Verizon version never materialized.
 
-In addition to there were missteps at the start. While today we know Google as an organization that's (mostly) more able to selling actual products, the first days saw a good little confusion, especially regarding support of the Nexus One. When problems began to arise — and they always do — Google and HTC at first sort of indicated fingers at each other shouting "Not it! " Had been it a Google Telephone? Was it an HTC phone? We didn't really know, and it seems crazy to think that no person bothered sussing that out there ahead of time. Google finally got some telephone support (for the phone) up and running with regards to a month in.
+In addition to there were missteps at the start. While today we know Google as an organization that's (mostly) more able to selling actual products, the first days saw a good little confusion, especially regarding support of the Nexus One. When problems began to arise and they always do — oogle and HTC at first sort of indicated fingers at each other shouting "Not it! " Had been it a Google Telephone? Was it an HTC phone? We didn't really know, and it seems crazy to think that no person bothered sussing that out there ahead of time. Google finally got some telephone support (for the phone) up and running with regards to a month in.
 
 Reflecting on the launch of Nexus, HTC America President Jerr Mackenzie tells Android Key, "if I look again, the Nexus One was probably about five years ahead of its time. Because it wasn't just about a Google experience telephone, it was really about a totally new way to bring a phone to market. You didn't go to operator shops, you didn't go to suppliers to buy it. That was online. We offered customization on that to where you could have stuff engraved, and then we would overnight that phone. "
 

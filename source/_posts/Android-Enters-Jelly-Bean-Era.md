@@ -122,7 +122,7 @@ Motorola in 2011 was somewhat of a chaos. In the USA, Verizon was attempting to 
 
 What Google did that was important to us was redefine how Motorola would take Android from ranges of code into something people would want to use. Enter the Motocicleta X.
 
-The goal was simple, and achievable — take basic Android, in support of add features that avoid duplicate existing ones, through adding things that showcase Google android (and Google's) unique features. Built on a custom fabbed CPU and SoC design, the Moto Times brought things like Google Now voice actions, compartmentalized and developer-customized notifications, and Google's Internet services to the forefront.
+The goal was simple, and achievable take basic Android, in support of add features that avoid duplicate existing ones, through adding things that showcase Google android (and Google's) unique features. Built on a custom fabbed CPU and SoC design, the Moto Times brought things like Google Now voice actions, compartmentalized and developer-customized notifications, and Google's Internet services to the forefront.
 
 Speaking with Android Central just for this series, Jim Wicks, Motorola's Mature Vice President of Customer Experience Design said the Google acquisition and Moto X release was a thrilling time within the company.
 
@@ -152,7 +152,7 @@ Following up about the surprising success regarding the original Nexus seven, Go
 
 The new Nexus several dropped the faux leather back and shiny plastic-type to go with a new full wrap of soft touch plastic, while also slimming down in every dimension. The screen stayed at a similar size, but knocked up to fantastic 1920x1200 resolution, with small bezels about the sides to retain total size down yet with larger bezels at the top and bottom for keeping in landscape mode with regard to video. Even with the smaller body Google maintained to get in stereo speakers, a huge improvement, and added a 5MP rear camera.
 
-On the inside of Google made notable advancements, basically taking the internals of the Nexus some — a similar Snapdragon S4 Pro processor and 2GB of RAM — to power the entire thing, while also thumping up the base safe-keeping to 16GB. The battery dropped in size, nevertheless battery life actually increased thanks to the even more efficient components. With just about all of the improvements inside the hardware merely a yr after the previous variation, the price only bumped up modestly starting at $229, up coming from $199.
+On the inside of Google made notable advancements, basically taking the internals of the Nexus some 'a similar Snapdragon S4 Pro processor and 2GB of RAM' to power the entire thing, while also thumping up the base safe-keeping to 16GB. The battery dropped in size, nevertheless battery life actually increased thanks to the even more efficient components. With just about all of the improvements inside the hardware merely a yr after the previous variation, the price only bumped up modestly starting at $229, up coming from $199.
 
 The second Nexus 7 was a massive improvement on its junky predecessor...
 
