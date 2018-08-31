@@ -1,0 +1,228 @@
+---
+title: Android is Transformed
+date: 2018-08-21 16:45:00
+category: Android Dreams
+---
+
+![](/images/4.jpg)
+
+Since Android hit its step on phones, a brand new tablet release brought the OS onto bigger displays, and also a new design terminology took its look plus feel to the next level.
+
+From the ending of 2010 Android had become a force to get believed with on smartphones. Typically the following year would notice Google's OS properly department out into tablets using the slate-centric (but ill-fated) Honeycomb release before reuniting the device and tablet branches inside Ice Cream Sandwich, typically the biggest change to Android in its history thus far. Together with "ICS" came an completely new visual style, and a tougher focus on style. And thanks to a partnership with Samsung, Android 4.0 debuted about a phone with the major technical milestone to its name.
+
+<!-- more --> 
+
+In typically the fourth part of our Android History series, we're going track the progress regarding Android through its most transformative period yet a year that noticed the rise of Samsung through major launches like the Galaxy S2 in addition to Galaxy Note, as nicely as huge changes to be able to the core in the program. Read on to uncover the year that transformed Android beyond recognition.
+
+# Honeycomb
+
+Android 3. 0 proceeded to go by the codename "Honeycomb. " (Or, to numerous Android followers, "the version of which we do not speak. ")
+
+In early-December 2010 Andy Rubin — in many ways thought to be the father of typically the Android we know today — strode onto the "D: Dive Into Mobile" phase in S . Francisco with a little surprise tucked beneath his arm. A tablet from Motorola with a new new version of Android OS on board Android OS Honeycomb.
+
+Android tablets to be able to this point mostly experienced been large displays together with a phone's operating-system hacked onto them. And pOSsibly that will isn't really all of which diverse from what we have got today. But back then it just didn't sense right.
+
+This prototype capsule and the operating system it was to release were meant to change that. A new "holographic" design language (more Knife Runner than Holo, perhaps). New notifications. Things were different. And we swiftly started out to wonder just how well some of this would certainly translate to phones when Honeycomb reached its full release.
+
+And so all of us ended up with the particular Motorola Xoom. We may pOSsibly not have known that at the time, yet its bizarre name has been a harbinger of things to come. The tablet at first shipped with 3G data and not LTE — but Motorola would retrofit tablets if they have been mailed in. Adobe Flash wasn't supported at launch. Nor was your micrOSD cards slot.
+
+But in addition is that we waited and waited for the Honeycomb source code to end up being made open-source, like typically the rest of the Google android releases. That day in no way came. Conventional wisdom shows us that Google identified the trouble both together with the design and the particular functioning of Honeycomb, in addition to that we'd conclusion upward with some serious FrankenPhones should it be launched into the wild. (Likely right now there were licensing issues as well that never really goes away. )
+
+Honeycomb, and the components upon which it leaped, felt like rushed products.
+
+Nevertheless, all this offered the impression of an OS that was hurried to launch to avoid Apple from dominating the particular nascent tablet market.
+
+In addition to so Honeycomb very swiftly commenced to die on vine. In fact, the particular Xoom was your only gadget ever released with Google android 3. 0. (Its leaner Samsung Galaxy Tab 12. 1 landed at Yahoo I/O 2011, with Android OS 3. 1 in tow. ) The Xoom was updated to Android some. 0. x Ice Lotion Sandwich before it was left behind. Today, even the Android Platform Versions dashboard which keeps a running tally of the percentage of active devices upon various versions of the particular OS does not have talk about of Honeycomb. (Versions along with less than 0. one percent distribution are squelched, but even Android two. 2 Froyo remained about the list as overdue as November 2015. )
+
+Honeycomb is the neglected version of Android. Very good riddance? Probably. But that was an intriguing trip.
+
+# 4G LTE in typically the USA
+
+Gather 'round, youngsters, as our elders explain to the tales of the period before LTE. A time before it was possible to download megabyte after terme conseill of cat gifs, at least not quickly. "Gangnam Style" was not yet a new hit. And Wi-fi was your only real best for streaming anything. This is typically the time of "Faux Gee, " a time inside which U. S. mobile operators fought to be the first with the particular new "4G" wireless info speeds by affixing the particular label towards the current (though improved) HSPA+ technology.
+
+Yet LTE was coming. These people knew it, we realized it, and we necessary were some handsets in order that we could properly get things going and overlook about the lOSing WiMAX standard.
+
+And in last year, we got it 4G LTE smartphones.
+
+"Faux gee" no more in 2011 real, genuine 4G arrived on United states shores.
+
+Things actually started off at the Buyer Electronics Show that year in Las Vegas, wherever Verizon unleashed a stir of LTE-capable devices. Several smartphones. A couple pills. Plus laptops and a new two hotspots for good measure. Our own Phil Cannella Nickinson was there inside the audience. It was a single of those press conferences that instils just as much enjoyment for the new toys and games as it does fear for achieving only a few mins to cover them all.
+
+The LG Revolution. HTC Thunderbolt. Samsung 4G LTE. (Yes, that really was their name at the time. ) Motorola Droid Bionic. In addition to the Samsung Galaxy Case and Motorola Xoom. Android OS devices, all, and everything along with the fledgling 4G LTE data. Verizon was at the forefront here, and it was released strong.
+
+Points started out strong. And then they got weird.
+
+That is when things got strange.
+
+The first Android smart phone to sport LTE for those of us in the states landed not too much later, however, not on Verizon proper. It absolutely was the Samsung Indulge, on Metro PCS. We'll reduce you for not really remembering that one.
+
+Typically the phones everyone was really holding out for were the Thunderbolt, Droid Bionic and the phone from Samsung that eventually became the Droid Charge.
+
+And we continued to wait. Then we waited some more. It was the longest spring ever, really. Rumoured launch dates for every single phone came and gone. The HTC Thunderbolt was available March 17, last year. The Droid Charge landed on April 28. Plus the Motorola Droid Bionic didn't hit until Sept 8 a little more than eight months after we first saw it at CES. (The mobile phone nerds, as you may recall, were rabid. )
+
+The first generation of LTE-capable smartphones were battery hogs.
+
+Yet by the time the Droid Bionic finally made its appearance we'd already learned a harsh truth. The very first generation of LTE-capable smartphones were battery hogs. Killing a phone by lunchtime wasn't out of the question in the slightest. You could almost see the life draining from the handset as it burned through all the bits and bytes. In addition to this was back in the days before battery packs got big. We're talking a mere 1400 mAh battery in the Thunderbolt — less than 50 percent of what you'll find in almost all of today's flagship smartphones, which is without the benefit for the more successful processors and software that we have today.
+
+Phones didn't long lasting back then. But, damn, fast data was fast.
+
+# Peak HTC
+
+Going into 2011, HTC was California king of the Android mountain. The Taiwanese manufacturer's earlier gamble on Google's OPERATING-SYSTEM had repaid handsomely, with monthly sales exceeding $1 billion and a valued position as the U. S. 's biggest smartphone manufacturer in the 3 rd quarter of that yr.
+
+The HTC Sense switch clock was a common sight in advertisements around the world. New devices arrived to rave reviews. HTC was the open public face of Android, and the de facto alternative to the iPhone.
+
+The large success of HTC was perhaps best quantified by the actions of the doj it was able to put on. To launch the Sensation XL "a relatively minimal phone" and inaugurate its acquiring Beats Electronics, HTC overtook London's Roundhouse venue for a press conference-slash-celebrity-filled party, with activities from will. i. am, Fedde Le Grand and Nero. In attendance were Dr. Dre, Lady Decrepito and many other big names.
+
+For a company that styled itself as "quietly brilliant, " HTC was roaring.
+
+But there were already signs of the looming decline that would push HTC off the top spot and into its present role as an appreciated but progressively niche contender. HTC's early on tablet efforts, the Hazard and Jet-stream, were met with a lukewarm reception. And intensive competition from Apple's iPhone 4s and Samsung's Galaxy S2 and Universe Note started to struck HTC's main point here, with income tapering off in Nov and December 2011.
+
+HTC's foray into the tablet room largely ended with the Flyer. (The Jet-stream only saw a limited release on AT&T in the U. S., with an eye-watering $800 on-contract price. ) Rumours of more HTC tablets with regards to development continued, and HTC Product and Service Director Graham Wheeler confirmed to Android OS Central that some had been in the works over time, but they were discontinued.
+
+"I've had tablets that'd experienced early development stages within HTC but we decided didn't have that differentiating factor, and so we didn't bring them to market. "
+
+"At THE ALL NEW HTC we're obsessed with creating things that differentiate, that hook up people in several ways", Wheeler says, "And could the Nexus 9, I've had tablets that'd experienced early development stages within HTC but we made the decision didn't have that distinguishing factor, and so we didn't bring them to market. "
+
+Within the years that followed, HTC continued to be generally a smartphone maker during a period in order to was becoming increasingly difficult to manage just marketing smartphones. As iPhone sales continued to soar, and Samsung poured money into marketing and differentiating systems, HTC began to appreciate the squash. Only recently has the company started branching out into other areas, with devices like the RE camera and Vive virtual actuality system, as well as the Nexus 9 capsule, built in collaboration with Google.
+
+HTC's role in the smartphone industry may be greatly diminished from the glory days of 2011, but the company remains hopeful that new device categories, and a reconditioned give attention to the mid-range with the new HTC A single A9.
+
+## As HTC The USA President Jason Mackenzie describes:
+
+"We are now living in a world now that's super thrilling, because you're going to have billions of products. And when you speak about wearable and stuff people immediately think about the wrist and something which would track their footsteps that help them get in condition. But everything is becoming connected. And so what we're going to be doing there as a brand is going again to our partner roots, and looking at who are big brands in key categories who aren't in wireless. "
+
+### Typically the Samsung Galaxy S2
+
+In the event the original Galaxy S was Samsung getting serious about Android as a platform, the Galaxy S2 was the Korean company proceeding all-in on smartphone hardware. Launched at Mobile Globe Congress 2011 in Barcelona, the Galaxy S2 saw Samsung leapfrog the competitors with its own dual-core ExynOS processor and a stunning SuperAMOLED+ screen. With organic components inside its last year flagship, Samsung was coming to becoming the most vertically-integrated of all Android phone makers.
+
+And, having worked closely with Yahoo on the Nexus T, Samsung was also capable to bring more responsive performance than ever to the 2011 flagship. In an era when speedy performance on high-end phones had not been guaranteed, the GS2 was silky smooth on Google android 2. 3 Gingerbread.
+
+Typically the Galaxy S2 lacked the curvaceous metal of competitor HTC's Sensation phone. But it made up for this shortcoming by providing its plastic shell with an enormous amount of hp into a slim, light handset, while matching or beating its competitor in camera and battery life.
+
+What the GS2 weren't getting in fancy materials it made up for in sheer technological prowess.
+
+Typically the GS2's AMOLED display sported a relatively standard 800x480 resolution, but with better, more vivid colours than the LCDs of competition. Coming from the ho-hum LCDs and OLED screens of the time, the GS2 was mind-blowing bright and clear a huge pay-off differentiator for the Korean company.
+
+The GS2's software was another history. TouchWiz was bright, cartoonish and a little strange, with vestiges of stock Android, Samsung's darker Galaxy S visual style and liberal use of major colours. Even HTC, with its new-found obsession with 3D home screens and widgets, presented a more cohesive design than Samsung Korea. But it was 2011, and Android skins in general were still kind of any mess.
+
+Europe and Asia got the Galaxy S2 in spring of last year, but the phone failed to arrive on U.S. shores until later in the year, and only then within mess of slightly different, carrier-specific models on AT&T, T-Mobile and Sprint. (Verizon snubbed the GS2 fully for the Galaxy Nexus. )
+
+Is actually this U.S. service provider mash-up that gave us all the AT&T Galaxy S2, the T-Mobile Galaxy S2, and the (gasp) Sprint Samsung Galaxy S2, Impressive 4G Touch. Yes, the comma was part of the established branding.
+
+Marketing sins besides, the slightly different You. S. GS2s were just as good as their international counterparts, and the greater branding symmetry put the foundations for Samsung Korea to bring one telephone 'the Galaxy S3' to all four carriers in 2012.
+
+# Typically the ASUS Transformer: A Honeycomb laptop
+
+2011 was a large year for Android capsules. Honeycomb "Google's carefully held version of Google android specifically created for large monitors" brought over features that allowed them to be more than just big phones. ASUS took this to heart in order to released the EeePad Transformer.
+
+A new "typical" Honeycomb-powered tablet in its raw form, the Transformer, err, "transformed" into a honest-to-goodness Android laptop when dropped into the $150 keyboard dock. The particular software, while still touch-friendly, became user friendly with a pointer, and the hardware keyboard was set upwards with the requisite Android shortcuts, making things user friendly and a fairly seamless transition.
+
+Much of this was because the computer keyboard dock itself was designed to work specifically with Android. Wireless keyboards have been around forever, and they also worked, but not as well as ASUS's dock with an integrated touchpad and mouse button buttons. With no consumer setup required, things worked well as expected, right out of the box. And they proved helpful well. The Transformer's -NVIDIA Tegra 2 processor managed most anything thrown at it, and the large battery combined with the additional battery in the keyboard dock itself kept you at it all day.
+
+May Android be a practical laptop operating system?
+
+A bigger question, and one which still remains is whether delete word Android is usable as a laptop operating system. ASUS did a fine job integrating their hardware but you still found programs that required things like a swipe or a longpress, and a number of just didn't work with the Transformers touchpad. We all still see those issues today, especially with Google android TV. Often times, compatibility doesn't really mean compatible.
+
+Overall, the good outweighed the bad and ASUS (as well as others) continuing to build "transformable" capsules with integrated keyboard docking solutions. Android is also recovering on a laptop, and we anticipate to see some great stuff from the upcoming Pixel D.
+
+Just remember, ASUS did it first, and it did a pretty good job with it.
+
+The Amazing World of StereOScopic THREE DIMENSIONAL Smartphones!
+
+As TV producers started to push glasses-free 3D sets in a large way, it was only a matter of time before smartphone manufacturers hopped on the bandwagon. And as mid-2011 rolled around we saw the very first (and very last) trend of stereOScopic Android mobile phones and tablets.
+
+LG introduced the very first 3D Android phone, the Optimus 3D, that spring. Utilizing a similar strategy to glasses-free 3D TVs, you'd probably have to hold the device a specific distance from your eyes to see the effect (and lOSe half the display image resolution in the process. ) Much like other convenient 3 DIMENSIONAL devices like the Nintendo 3DS, eye strain would become an issue with extended use, and image quality was worse than rival 2D-only panels.
+
+Afterwards in 2011, HTC launched the EVO 3D — the successor to the highly popular EVO 4-G on Sprint in the U. S., before giving it a minimal European release. The ET? boasted a slightly higher resolution and improved battery pack life compared to LG's effort, with the relax of the experience reflecting the otherwise solid THE ALL NEW HTC Sensation.
+
+LG's VP of smartphone product planning, Doctor. Ramchan Woo, affirms the push towards 3D devices didn't come from any single source, but somewhat a coming together of technologies.
+
+"It came from many guidelines. The chipset manufacturers arrived up with the concept of assisting a stereOScopic camera, and also LG Innotek, they had the camera technology. "
+
+And the excitement for 3D in LG's TV business was also catching, Woo says.
+
+As with TVs, the true problem with 3D wasn't the technological implementation but somewhat the lack of content.
+
+But as was the case in the TV space, the true problem with 3D had not been the technological implementation but rather the content. Or shortage thereof. YouTube supported 3D, but there wasn't much to watch. A few Android games got in on the action. And of course you might view 3D pictures you'd already taken with the phones' dual rear cameras. But that was about it.
+
+Neither sold particularly well, and so 3D phones, a categorically failed experiment, were consigned to history. Rather of stereOScopic gimmickry, substantial display resolutions and ever-growing pixel densities would push smartphone display tech forwards in the many years movement to come
+
+Updates and Units
+Android OS Central's Jerry Hildenbrand still remembers sitting in the group at the Google I/O 2011 keynote, and seeking never to snicker when Yahoo announced the Android Upgrade Alliance. If you're not familiar, it was a "promise" made by Google, the people who make our Android phones, and the service providers that sell them to us that the version of Android running on the phone would be updated (if the hardware was capable) for 20 months.
+
+Of course, that didn't happen. It didn't want to have happened, and due to way Android is dispersed, it probably never will happen.
+
+The Android Update Alliance was doomed from the start, because it relied on people holding true to promises they made before they started keeping track of the money.
+
+Android is not like Apple's iOS, where it's one company designing hardware and designs software together. Android is not like Windows, where anyone can associated with hardware, but they have to buy the software as a propOSal from Microsoft. Android differs, because it's nothing but a few million lines of source code given away at no cost.
+
+Google has no control over who is able to download the Android source code, change it into something hardly recognizable, and build it to run on a phone they may have made. What Google can perform is tell the company that downloaded and built Android that if it wants, it can install Google's software and services (also free) as long as the devices meet a few compatibility specifications. Many companies recognize the value in this and toe the line. Others, like Amazon or Barnes & Noble, shrug off the offer and do their own thing. What Google can't or won't do is come back a few months later and say "You didn't up-date to the latest version, so give us our stuff back. "
+
+So the Android Update Alliance was doomed from the start, because it depended on people holding true to promises they made before they started counting the money. Companies earn cash promoting new phones with new version on them. Indicate make any money spending time and resources on older models that they are yet to already been purchased.
+
+... But the Update Alliance was important, because it began a major conversation about Android's update problem.
+
+But the Android Update Alliance was important, as it got people talking about and expecting various Android OS vendors and manufacturers to keep up-to-date software on their phones. The companies involved, including Google, know that folks are expecting timely updates so they are slowly and gradually changing the way the whole upgrading thing operates. Things like breaking software out of the system and putting them in Google Play are a direct result of companies knowing how much we care about being current. A similar goes for Google finally getting serious about keeping phones it shouldn't directly sell secure with a new monthly patch system that vendors may easily build to their own flavour of Android OS.
+
+It also got companies like Motorola and Samsung to deliver out major improvements too rapidly, and that switched out to be fairly bad. That was part of the learning curve, and hopefully a part we're over.
+
+In the end, the whole up-date alliance thing didn't baking pan out as advertised. That does not mean it was a bad idea or that companies wanted to split their promises, though. This was one of those ideas that looked great when it was devised, but nearly impossible to follow through in many ways we thought it should. Instead, we got some well organized and thoughtful changes to make keeping current and keeping more secure easier.
+
+# Ice Ointment Sandwich and Holo
+
+By simply late 2011 it was time for Android's biggest upgrade to date, reunifying the smartphone and capsule branches of the OS and defining its look, look and technical underpinnings for the approaching years.
+
+It was clear that Honeycomb's "holographic" UI will be the shape of things to come, and at the Android 4. 0 launch event in Hong Kong, Android design guru Matias Duarte (hired the previous year), laid out there the thinking behind the new "Holo" design language: "We asked ourselves, for the first time, what is the soul of Android? "
+
+"While people liked Android and needed Android, they didn't love Android. "
+
+Google Android 4.0 also introduced common design factors to Google's own apps, like the Action Bar and flood menus, some of which often have stayed in the game to typically the present day. These design traits would evolve as time passes, but the big deal with ICS and Holo had been that there was actually style guidelines to adhere to. No extended would the Android OS and Android programs become this hodgepodge of not familiar interfaces. Holo helped bring everything into a cohesive whole.
+
+There were big functional changes too. Such as tablets, Android phones obtained on-screen buttons, and a new dedicated key for changing between recent apps a nod to the fact that more plus more of us have been becoming heavy multitaskers on this phones. And notifications became even more useful, together with time-saving actionable buttons.
+
+Android OS 4.0 provided typically the building blocks that telephone makers would use for create the Android devices associated with 2012 and beyond. Plus while not all of the beautiful new "Holo" UI tends to make it by means of to end-users, it had been typically the start of an essential style journey for Google in addition to Android.
+
+# The Samsung Universe Nexus
+
+Such a main new version of Android demanded a brand new Nexus system, and in 2011 Yahoo partnered with Samsung when again, giving us typically the Galaxy Nexus. The telephone was unveiled along together with Android 4. 0 from a media event inside Hong Kong, having already been delayed a week (and moved away from a San Diego tech show) due to the passing of Steve Jobs.
+
+As Nexus launches go, this a single was unusual for a new whole bunch of causes. Firstly, the name: "Galaxy Nexus" put a large Special stamp on the Nexus line, and this was mirrored in the manufacturer's popular role at the combined launch event. That had been surely no accident the "GNex, " as fans nicknamed it, had been made possible by Samsung's homegrown technologies, including the revolutionary (for the time) 720p HD SuperAMOLED show. Samsung execs also got pride inside the phone's slimness, lightness and sleek figure, traits which we'd notice carry to the Galaxy S line the following year.
+
+The Android four. 0 user experience has been so vastly superior to something Android had previously offered, and that's what manufactured the Galaxy Nexus, regardless of other hardware foibles.
+
+In addition to it is that crazy-dense display, combined with Google's efficient, beautiful software, that made the Galaxy Nexus really feel like a futuristic phone. Even though the digital camera wasn't the highest, and typically the chassis was decidedly plastic material, the user experience regarding Android 4. 0 -- so vastly superior in order to anything Android had earlier offered shone through.
+
+But just like the previous a couple of Nexus phones, this has been a collaborative effort. Communicating at the launch occasion in Hong Kong, Android OS founder Andy Rubin advised press, "the engineering clubs occupied one building any time we built this merchandise. We were really 1 team. " Samsung's personal processor wasn't used these times though -- instead, the "team" opted for the particular more open-source-friendly Texas Devices OMAP 4460 chip. As luck would have it that'd function as the eventual downfall of the GNex, since lack of support through TI (which had considering that exited the mobile CPU space), scuppered its chances of being upgraded beyond Jelly Bean.
+
+The Galaxy Nexus launch did not go smoothly on either aspect from the Atlantic.
+
+The retail launch of the previous Samsung Nexus phone had been also beset by issues. The UK and Europe got it first, but supplies were short, in addition to retailers like the (now defunct) Phones4u gouged launch-day customers using a £100 value hike for your first twenty-four hours of availability.
+
+Above in the United Declares, things got even messier. Verizon Wireless would exclusively carry a 4G LTE-enabled Galaxy Nexus for the particular first few months of its availability, and the battle of competing corporate pursuits finally scuppered the GNex's probability of gaining a footing inside the U. S. Despite the fact that Google had successfully negotiated the Nexus's place about Verizon a package which also led to typically the country's biggest operator passing up the Galaxy S2 there was chaffing involving the two.
+
+As one knowledgeable insider tells Android OS Central, "Verizon didn't such as the lack of control over the device. They usually are big on earnings coming from [pre-installed] apps, hence the delays in addition to the lack of sources to certify it. "
+
+"When [the Universe Nexus] got out there, [Verizon] retailers were told to pretty much ignore it. "
+
+Verizon also saw the Universe Nexus as a prOSpective rival to its own super-popular Droid line between power users, our resource says, and so "when that got available, stores have been told to pretty very much ignore it. " In the end, after being delayed previous Black Friday and directly into mid-December, the Verizon Universe Nexus was met along with a lukewarm response between all but hardcore technical enthusiasts.
+
+What's more, those who acquired a Verizon Nexus expecting speedy updates "a hallmark of the Nexus brand" might be even more disappointed. Regarding all their waiting with regard to the phone's release, that they had must wait even lengthier for subsequent updates past Android 4.0. A couple of The Verizon GNex has been relegated to "just another phone" status.
+
+Eventually typically the Galaxy Nexus would move on sale within the form of an HSPA+-only version with regard to the U. S., marketed directly by Google. Until then, fans on T mobile and AT&T would end up being required to pony up additional cash for an brought in European model.
+
+# Typically the Samsung Galaxy Note: Your 'Phablet'
+
+At the IFA 2011 tradeshow in Munich, Germany, Samsung unloaded a slew of Honeycomb-powered tablets... and a quirky new smartphone.
+
+A unusual new really, really big smartphone.
+
+Typically the Note seemed ridiculous at the time. Now it merely requires seems obvious.
+
+This was the initial Samsung Galaxy Note, a phone with a 5. 3-inch display in 16: 10 aspect proportion, and another of the first HD SuperAMOLED displays to hit the market. Plus the big screen wasn't just for decoration Samsung Korea expected Note customers to use the extra display screen real estate for act as well as entertainment. Consequently the inclusion of the Wacom-powered "S Pen, inches a pressure-sensitive stylus that, unlike HTC's Flyer pill, didn't require any electric battery of its own. Instead, just docked into the side of the device when not in use.
+
+The idea was that young consumers would use it for creative pursuits, while business types would appreciate the extra space for emails and productivity. It's arguable whether that paradigm really played out in real life, or whether both campement simply wanted to see more of what they were already doing. In any case, the Galaxy Note was a surprising success.
+
+While many dismissed the Notice at the time and, looking back at our review, we weren't entirely convinced either this cell phone was the start of something big. Samsung had pre-empted the trend towards enormous telephone displays, and in so doing established itself as the go-to brand for big-screened handsets.
+
+It'd also driven us to conjure up the cringe-worthy term "phablet" to describe this emerging category of device. But we suppOSe you've got to take the rough with the clean.
