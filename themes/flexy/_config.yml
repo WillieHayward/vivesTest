@@ -1,0 +1,17 @@
+# config
+logo: /images/logo.png
+keywords: 
+# pubkey: 13DB CAA1 2633 81A7
+menu:
+  Home: /
+  Articles: /Articles
+  About: /about
+  Gallery: /gallery
+
+# Content
+excerpt_link: Read more
+
+# Miscellaneous
+rss: /atom.xml
+google_analytics:
+

@@ -1,0 +1,7 @@
+if theme.pubkey
+  section.pubkey= theme.pubkey
+section.copyright
+  p &copy; 2018 Vives Virtual
+  if config.feed && config.feed.url
+    | &middot;
+    a(href= config.feed.url) RSS Feed
