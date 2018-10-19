@@ -1,7 +1,8 @@
 # config
-logo: /images/logo.png
+logo: /images/logo.jpg
 keywords: 
 # pubkey: 13DB CAA1 2633 81A7
+
 menu:
   Home: /
   Articles: /Articles

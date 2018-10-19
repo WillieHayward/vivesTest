@@ -2,9 +2,9 @@
 title: About Us
 ---
 
-![](/images/logo2.jpg)
+![](/images/logo.jpg)
 
-During 2015, Vives Virtual come to an active status in smartphone OS world. We share the latest news regarding OS used on most famous smartphone brand nowadays. Android might be the greatest among Asia side but there is iOS competing from the West side. Do you know closer about Android? Get the update from our feeds.
+During 2015, Everyday Mom Blog come to an active status in smartphone OS world. We share the latest news regarding OS used on most famous smartphone brand nowadays. Android might be the greatest among Asia side but there is iOS competing from the West side. Do you know closer about Android? Get the update from our feeds.
 
 # Where really does Android come from?
 
